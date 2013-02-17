@@ -3,5 +3,5 @@
 
 Preso for DevOpsDay LA 2013 at SCaLE.
 
-uses the very nice reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+uses the very nice [reveal.js](https://github.com/hakimel/reveal.js)
 
